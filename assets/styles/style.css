@@ -1,0 +1,60 @@
+.wrapper .cover {
+  height: 40vh;
+  width: 100%;
+  background: url(../images/invest-tokyo-2016-seminar.jpg) no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  margin-bottom: 30px;
+}
+
+header .navbar-nav {
+  width: 400px;
+  margin: 0 auto;
+  float: none !important;
+}
+
+#navbar {
+  margin: 50px 0 30px;
+}
+#navbar > li {
+  float: left;
+}
+
+.content-centered {
+  text-align: center;
+}
+
+section.content-centered ul {
+  max-width: 600px;
+  margin: 0 auto 10px;
+  text-align: left;
+}
+
+.info-block {
+  margin: 0 0 60px;
+}
+
+footer {
+  margin: 40px 0 0;
+  box-sizing: border-box;
+  background: #222;
+  color: #b5b5b5;
+  padding: 25px 0 15px;
+  text-align: center;
+}
+
+footer a {
+  color: #fff;
+  opacity: .9;
+  transition: all .3s linear;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #fff;
+  opacity: 1;
+}
+
+.wrapper header .collapse {
+  display: block !important;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "500corporatestokyo.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "devDependencies": {
+    "static-server": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cu7ious",
+  "license": "ISC"
+}
